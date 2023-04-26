@@ -147,4 +147,3 @@ Example Response:
   "twitter": "@xiuhtezcatl"
 }
 ```
-# Phase-2-Hooks-Code-Challenge-Planeteers
